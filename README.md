@@ -1,8 +1,10 @@
 # ArduinoPrograms
 Some simple arduino programs for getting started.
 
-  -Line Follower\n
+  -Line Follower
   
   -Catapult control (one axis)
+  
   -Servo calibration
+  
   -Ultrasound sensor
